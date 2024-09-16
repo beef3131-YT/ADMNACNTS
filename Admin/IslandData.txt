@@ -13,5 +13,6 @@ test 0 Complete z NoPaths
 Minigame_Thumpies 0 Complete z p
 Minigame_stacking 0 Complete z p
 Minigame_Simon 0 Complete z p
+Minigame_pizza 0 Complete z p
 Stargazer 0 Complete z p
 Credits 0 Complete z p

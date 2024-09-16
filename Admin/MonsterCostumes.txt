@@ -97,7 +97,11 @@ Costume1 str_costume_marshflamo_christmas Ticket=1 Season_yay:Flower_red=5,Log=1
 ;
 Monsters/Monster_koodahcane
 a0 str_costume_default
+Costume_2 str_costume_koodahcne_mustache coins=1
 Costume str_costume_koodahcne_christmas Ticket=1 Season_yay:Flower_red=10,Fabric=10 Frame:SeasonalFrame
+Costume_3 str_costume_koodahcne_halloween Ticket=1 Season_spook:Flower_red=10,Flower_yellow=10,diamonds=6 Frame:SeasonalFrame
+Valentines str_costume_koodahcne_valentines Ticket=1 Season_love:Flower_red=10,Fabric=10,diamonds=6 Frame:SeasonalFrame
+Deluxe str_costume_koodahcane_deluxe Ticket=1 Frame:GoldFrame
 ;
 Monsters/Monster_noggin_undof
 a0 str_costume_default
@@ -159,6 +163,10 @@ costume_1 str_costume_knott_4 Flower_blue=10,diamonds=5
 Monsters/Monster_potbellyGM
 a0 str_costume_default
 christmas str_costume_potGM_christmas Ticket=1 Season_yay:diamonds=20 Frame:SeasonalFrame
+;
+Monsters/Monster_potbellyGM
+a0 str_costume_default
+Deluxe_1 str_costume_handmond_deluxe Ticket=1 Frame:GoldFrame
 ;
 
 
