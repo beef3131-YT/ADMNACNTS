@@ -84,11 +84,6 @@ a0 str_costume_default
 Costume1 str_costume_gobstomper_egg coins=10000
 Costume2 str_costume_gobstomper_halloween Ticket=1 Season_spook:Flower_blue=20,Flower_yellow=20 Frame:SeasonalFrame
 ;
-Monsters/Monster_gobstomper
-a0 str_costume_default
-Valentines str_costume_gobstomper_rare_valentines Ticket=1 Season_love:diamonds=1 Frame:SeasonalFrame
-christmas str_costume_gobstomper_rare_christmas Ticket=1 Season_yay:diamonds=1 Frame:SeasonalFrame
-;
 Monsters/Monster_brasscuit
 a0 str_costume_default
 Costume str_costume_cookie_christmas Ticket=1 Season_yay:Flower_red=12,Fabric=16 Frame:SeasonalFrame
@@ -146,6 +141,7 @@ christmas str_costume_gumtromp_rare_christmas Ticket=1 Season_yay:diamonds=5 Fra
 Monsters/Monster_gobstomper_rare
 a0 str_costume_default
 christmas str_costume_jawbreaker_rare_christmas Ticket=1 Season_yay:diamonds=10 Frame:SeasonalFrame
+Valentines str_costume_jawbreaker_rare_chistmas Ticket=1 Season_love:diamonds=10 Frame:SeasonalFrame
 ;
 Monsters/Monster_kayna_rare_undof
 a0 str_costume_default
