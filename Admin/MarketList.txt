@@ -368,6 +368,7 @@ Decoration/Decoration_test11
 Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
+Decoration/Decoration_pizza_machine
 -
 structures:
 Structures/Structure_crafter
@@ -544,6 +545,7 @@ monsters:
 Monsters/Monster_olga diamonds=1000
 Monsters/Monster_potbellyGM diamonds=1000
 Monsters/Monster_quibbleGM diamonds=2000
+Monsters/Monster_tabicrab
 -
 decorations:
 Decoration/Decoration_test
