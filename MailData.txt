@@ -1,9 +1,7 @@
-age - 25-40
-sex - male
-income - 90,000-130,000
-education - aimed at collage/university/ freelance artist
-hobbies - modeling, sculpting, art, influensers, inventors
-region - global
-f
-Gregory Foreman, a freelance artist who sells 3D printed models on etsy. He has a degree in fine arts. He lives in Ohio and is 29 years old.
-He makes 90k USD a year. He likes painting and sculpring whenever he has a chance to do so. He wants to expand his craft and start small 3D printing company. Making equipement for industries.
+ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
+
+intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (https://sites.google.com/view/msm-tll/home/tll-quickstart) through the button below!Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500;URL_LINK@Visit Tutorial Site@https://sites.google.com/view/msm-tll/home/tll-quickstart
+
+
+beef;everyone;Gift;Hey, take these goodies!.\n-beef;icon@gift;diamonds@10000;coins@10000000;LVL@21;foodB@5000000;food@50000000
+
